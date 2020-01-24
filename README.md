@@ -10,7 +10,7 @@
 </table>
 
 ### Explanation Video:   
-[![PTM 2 Final Project Explanation Video](https://img.youtube.com/vi/kmCDd7goWtE/0.jpg)](https://www.youtube.com/watch?v=kmCDd7goWtE)
+[![PTM 2 Final Project Explanation Video](https://img.youtube.com/vi/dcT8MW86-KM/1.jpg)](https://www.youtube.com/watch?v=dcT8MW86-KM)
 
 ### Presentation: 
 https://docs.google.com/presentation/d/1vQeZ2o1jdykNP4lIOzelRhiGfwQGKkNynulcdD0ZRwo/edit?usp=sharing
